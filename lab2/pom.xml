@@ -12,7 +12,7 @@
     </parent>
 
     <groupId>CS61B</groupId>
-    <artifactId>lab2</artifactId>
+    <artifactId>lab2setup</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <build>
@@ -40,5 +40,5 @@
             </plugin>
         </plugins>
     </build>
-    
+
 </project>
