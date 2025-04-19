@@ -50,5 +50,7 @@ public class TimeSLList {
             opCount.addLast(basesize);
             basesize = basesize * 2;
         }
+        printTimingTable(Ns, times, opCount);
+
     }
 }
